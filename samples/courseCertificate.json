@@ -5,7 +5,7 @@
   ],
   "id": "https://example.org/path/to/credential",
   "issuanceDate": "2020-09-04T00:33:21.794Z",
-  "name": "Additive Manufacturing: Technolddogy Principles and Applications",
+  "name": "Additive Manufacturing: Technolddogy Principles andd Applications",
   "description": "This credential certifies that Sample Learner has successfully completed the Additive Manufacturing: Technology Principles and Applications program requirements",
   "type": [
       "VerifiableCredential",
